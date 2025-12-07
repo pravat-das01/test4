@@ -1,0 +1,38 @@
+[33mcommit 26bf1b3441cdd034a6650c64797baa9d77ee1d02[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: happy <happypravat0852@gmail.com>
+Date:   Sun Dec 7 12:08:23 2025 +0530
+
+    Initial Commit
+
+[33mcommit 286693a9ca1783cf4d9df81f514bf6a95e58e9dd[m
+Author: pravat-das01 <dpravatkumar0@gmail.com>
+Date:   Sun Dec 7 12:12:26 2025 +0530
+
+    Update Test4Application.java
+
+[33mcommit 0b08a14b30a1451a95462a19933e563e8d05a629[m
+Author: pravat-das01 <dpravatkumar0@gmail.com>
+Date:   Sun Dec 7 12:02:32 2025 +0530
+
+    Update Test4Application.java
+
+[33mcommit 791ef8ebe63cac49bc43d0cc322c9e280a4eb544[m
+Merge: f77fc06 48acf0a
+Author: pravat-das01 <dpravatkumar0@gmail.com>
+Date:   Sat Dec 6 12:22:25 2025 +0530
+
+    Merge pull request #1 from pravat-das01/bug-fix-3456-login-error
+    
+    defectfix-3456-login-error
+
+[33mcommit 48acf0a6279ee067379a62e6d976bc9b3c4df7d1[m[33m ([m[1;31morigin/bug-fix-3456-login-error[m[33m)[m
+Author: happy <happypravat0852@gmail.com>
+Date:   Sat Dec 6 12:12:51 2025 +0530
+
+    defectfix-3456-login-error
+
+[33mcommit f77fc064a47b2a51ece9975151ef87458143e53a[m[33m ([m[1;31morigin/release[m[33m, [m[1;31morigin/r&d[m[33m, [m[1;31morigin/hot-fix[m[33m, [m[1;31morigin/features[m[33m, [m[1;31morigin/bug-fix[m[33m)[m
+Author: happy <happypravat0852@gmail.com>
+Date:   Sat Dec 6 11:57:57 2025 +0530
+
+    First Commit
