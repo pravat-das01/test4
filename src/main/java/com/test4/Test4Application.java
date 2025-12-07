@@ -14,6 +14,9 @@ public class Test4Application {
 		char v = 'a';
 		double z =10.4;
 		float m =10.3f;
+
+		bollean isSub=true;
+		char i ='n';
 		int c = 600;
 		SpringApplication.run(Test4Application.class, args);
 	}
